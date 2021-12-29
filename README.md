@@ -1,4 +1,4 @@
-# First App Flutter
+# First Flutter Project
  Simple flutter project just to understand the basics of flutter
  
 ## Technologies
